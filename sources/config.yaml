@@ -1,0 +1,9 @@
+buildVariable: false
+removeOutlineOverlaps: false
+noProductionNames: true
+reverseOutlineDirection: false
+sources:
+  - Puritan-Bold.glyphs
+  - Puritan-BoldItalic.glyphs
+  - Puritan-Italic.glyphs
+  - Puritan-Regular.glyphs
