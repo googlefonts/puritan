@@ -35,8 +35,8 @@ OS2WinAscent: 880
 OS2WinAOffset: 0
 OS2WinDescent: 0
 OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
+HheadAscent: 880
+HheadAOffset: 0
 HheadDescent: -1
 HheadDOffset: 1
 OS2SubXSize: 717
